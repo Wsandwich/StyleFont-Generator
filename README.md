@@ -1,4 +1,15 @@
+# HAIV Lab Font Style Generation Tool
 
+This tool can help you generate various font styles for specified text. By operating the control panel, you can input text, select reference images, and control some parameters of the generation process. After pressing the "Generate Image" button, the font image will be displayed on the page, and you can directly download the generated image.
+## Control Panel Operation Guide
+
+1.**Input Text**: Enter the text you want to generate the font for in the 'Please enter your text' input box.
+2.**Upload Reference Images**: Use the 'Drag the selected style image here to upload' feature to upload the style image you want to refer to. You can upload multiple images and choose one as a reference in the subsequent slider selector.
+3.**Set Generation Parameters**: You can set the generation parameters by moving the slider, including Batch_size, cont_scale, sk_scale, and repeat_times.
+
+## Generate Font Image
+
+After clicking the "Generate Image" button, the tool will generate a series of font images based on your input and settings. The generation process may take some time, please be patient. The generated font images will be displayed on the page, and there is a download button under each image, you can click the download button to download the image.
 
 
 
