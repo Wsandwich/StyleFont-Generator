@@ -4,7 +4,9 @@ This tool can help you generate various font styles for specified text. By opera
 ## Control Panel Operation Guide
 
 1.**Input Text**: Enter the text you want to generate the font for in the 'Please enter your text' input box.
+
 2.**Upload Reference Images**: Use the 'Drag the selected style image here to upload' feature to upload the style image you want to refer to. You can upload multiple images and choose one as a reference in the subsequent slider selector.
+
 3.**Set Generation Parameters**: You can set the generation parameters by moving the slider, including Batch_size, cont_scale, sk_scale, and repeat_times.
 
 ## Generate Font Image
